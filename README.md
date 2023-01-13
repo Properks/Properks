@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Cnspace
 - 👀 I’m interested in 'Game Development'
-- 🌱 I’m currently learning 'How to make Calculator with C by using Github'
-- 💞️ I’m looking to collaborate on a backend parts of project
+- 🌱 I’m currently learning 'Basic of C++'
 - 📫 How to reach me 'wjdah1402@gmail.com'
 
 <!---
