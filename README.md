@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cnspace
 - 👀 I’m interested in 'Game Development'
-- 🌱 I’m currently learning 'Basic of C++'
+- 🌱 I’m currently learning 'Basic of Java programming'
 - 📫 How to reach me 'wjdah1402@gmail.com'
 
 <!---
