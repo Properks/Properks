@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Properks
-- 👀 I’m interested in 'Game Development'
-- 🌱 I’m currently learning 'Basic of Java programming'
+- 👀 I’m interested in 'Web development with Java, Spring and Springboot'
+- 🌱 I’m currently learning 'Implement backend with Java and Spring'
 - 📫 How to reach me 'wjdah1402@gmail.com'
 
 <!---
