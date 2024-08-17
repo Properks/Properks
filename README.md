@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=properks&label=Profile%20views&color=0e75b6&style=flat" alt="properks" /> </p>
 
-- 🔭 I’m currently working on [review_blog](https://github.com/Properks/Start_Spring-boot/tree/main/project/review_blog)
-
 - 🌱 I’m currently learning **Java and Spring deeply**
 
 - 💬 Ask me about **Java and Spring.**
