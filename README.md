@@ -25,9 +25,9 @@
 ## Github Stats
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=properks&label=Profile%20views&color=0e75b6&style=flat" alt="properks" /> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=properks&show_icons=true&locale=en" alt="properks" /></p>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=properks&show_icons=true&locale=en&layout=compact" alt="properks" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=properks&show_icons=true&locale=en" alt="properks" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=properks&" alt="properks" /></p>
 
